@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Duplex &#8211; Águas Lindas</title>
+	<title>Duplex à venda em Águas Lindas de Goiás com entrada facilitada</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/09/home-150x150.png</url>
-	<title>Duplex &#8211; Águas Lindas</title>
+	<title>Duplex à venda em Águas Lindas de Goiás com entrada facilitada</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
@@ -37,9 +37,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a href="/hello-world/">Hello world!</a> appeared first on <a href="/">Duplex - Águas Lindas</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a href="/hello-world/">Hello world!</a> appeared first on <a href="/">Duplex - Águas Lindas</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
