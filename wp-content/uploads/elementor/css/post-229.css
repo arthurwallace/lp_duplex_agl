@@ -16,4 +16,13 @@
 }
 .botao_copiar:hover {
     background-color: #005bb5; /* Azul mais escuro ao passar o mouse */
+}
+
+
+@media (max-width: 768px) { /* Defina a largura máxima conforme necessário */
+    .botao_copiar {
+         margin-left: 0;
+        width: 80%;
+        margin-top: 20px;
+    }
 }/* End custom CSS */
